@@ -4,8 +4,8 @@ Olá, me chamo Wellen Monteiro e atualmente estou cursando o 5º semestre de Est
 
 ## CONTATOS
 
-Email:
-Linkedin:
+Email 📧:
+Linkedin :
 
 
 ## GOSTOS
@@ -46,5 +46,5 @@ E busco aperfeiçoar meus conhecimentos em:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NjE0MTMxOCwtMTI2NDE1OTIzM119
+eyJoaXN0b3J5IjpbODAzNDQxNjYwLC0xMjY0MTU5MjMzXX0=
 -->
