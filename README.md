@@ -1,16 +1,14 @@
-### Apresentação
+# APRESENTAÇÃO
 
 Olá, me chamo Wellen Monteiro e atualmente estou cursando o 5º semestre de Estatística na UFPA 🎓
-<div align="center">
 
-## Gostos
+## GOSTOS
 
-</div>
 Sou apaixonada por datascience 🎲🧪 e almejo futuramente trabalhar nesta área! 
 
-## Habilidades
+## HABILIDADES
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODU2NjIwNDBdfQ==
+eyJoaXN0b3J5IjpbMTc0NjY5NDU2Ml19
 -->
