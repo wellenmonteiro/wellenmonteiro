@@ -17,8 +17,10 @@ E busco aperfeiçoar meus conhecimentos em:
 
 
 ## CURIOSIDADES
-
-Amo
+<ul>
+<li>Amo bolo 😍</li>
+<li>Amo desenhar</li>
+<li></li>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxOTgwOTMyOV19
+eyJoaXN0b3J5IjpbOTM1NTIwOTcwXX0=
 -->
