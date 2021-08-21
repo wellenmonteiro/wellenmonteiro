@@ -18,7 +18,7 @@ Atualmente tenho conhecimento nas linguagens abaixo:
 <div style="background-color: white;">
 	<img alt="Python" width="32px" src="https://www.vectorlogo.zone/logos/python/python-vertical.svg"/>
 	<img alt="R" width="80px" src="https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg"/>
-	<img alt="Tableu" width="200px" src="https://gitlab.svg.zone/monopolies/monopolies.net/raw/master/logos/salesforce/Tableau_logo.svg"/>
+	
 </div>
 
 
@@ -31,6 +31,7 @@ E busco aperfeiçoar meus conhecimentos em:
 <div style="background-color: white;">
 	<img alt="MySQL" width="80px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"/>
 	<img alt="Postgre" width="60px" src="https://cpl.thalesgroup.com/sites/default/files/content/paragraphs/intro/2020-03/postgresql-logo.png"/>
+	<img alt="Tableu" width="102px" src="https://gitlab.svg.zone/monopolies/monopolies.net/raw/master/logos/salesforce/Tableau_logo.svg"/>
 </div>
 
 ## CURIOSIDADES
@@ -45,6 +46,5 @@ E busco aperfeiçoar meus conhecimentos em:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDU1MzA3ODUsLTEyNjQxNTkyMzNdfQ
-==
+eyJoaXN0b3J5IjpbMTI4NjE0MTMxOCwtMTI2NDE1OTIzM119
 -->
