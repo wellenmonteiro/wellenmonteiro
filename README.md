@@ -8,7 +8,17 @@ Sou apaixonada por datascience 🎲🧪 e almejo futuramente trabalhar nesta ár
 
 ## HABILIDADES
 
+Atualmente tenho conhecimento nas linguagens abaixo:
 
+
+E também em:
+
+E busco aperfeiçoar meus conhecimentos em:
+
+
+## CURIOSIDADES
+
+Amo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NjY5NDU2Ml19
+eyJoaXN0b3J5IjpbMTQxOTgwOTMyOV19
 -->
