@@ -18,6 +18,7 @@ Atualmente tenho conhecimento nas linguagens abaixo:
 <div style="background-color: white;">
 	<img alt="Python" width="32px" src="https://www.vectorlogo.zone/logos/python/python-vertical.svg"/>
 	<img alt="R" width="80px" src="https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg"/>
+	<img alt="R" width="80px" src="https://gitlab.svg.zone/monopolies/monopolies.net/raw/master/logos/salesforce/Tableau_logo.svg"/>
 </div>
 
 
@@ -44,6 +45,5 @@ E busco aperfeiçoar meus conhecimentos em:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTczMjcwNzUsLTEyNjQxNTkyMzNdfQ
-==
+eyJoaXN0b3J5IjpbLTEyMTQ3MTM1NiwtMTI2NDE1OTIzM119
 -->
