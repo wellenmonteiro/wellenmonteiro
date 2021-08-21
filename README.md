@@ -8,9 +8,7 @@ Email 📧: <a>wellenamador65@gmail.com</a>
 
 Linkedin <img width="25px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"/>: <a href="https://www.linkedin.com/in/wellen-de-paula-monteiro-a07bb5169/" target="_blank">wellen-de-paula-monteiroa</a>
 
-```
 [go](http://stackoverflow.com){:target="_blank"}
-```
 
 ## GOSTOS
 
@@ -50,6 +48,6 @@ E busco aperfeiçoar meus conhecimentos em:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NTAxMjkzNywtMTY5NDM0MjAxMCwtMT
+eyJoaXN0b3J5IjpbMTc3NTk4MDA4NSwtMTY5NDM0MjAxMCwtMT
 I2NDE1OTIzM119
 -->
