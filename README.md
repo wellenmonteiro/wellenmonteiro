@@ -15,7 +15,8 @@ Sou apaixonada por datascience 🎲🧪 e almejo futuramente trabalhar nesta ár
 Atualmente tenho conhecimento nas linguagens abaixo:
 <div style="background-color: white;">
 	<img alt="Python" width="32px" src="https://www.vectorlogo.zone/logos/python/python-vertical.svg"/>
-	<img alt="R" width="32
+	<img alt="R" width="80px" src="https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg"/>
+	<img 
 </div>
 
 
@@ -36,5 +37,5 @@ E busco aperfeiçoar meus conhecimentos em:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NDEzMzA4NiwtMTI2NDE1OTIzM119
+eyJoaXN0b3J5IjpbLTY5NjExNzc3NCwtMTI2NDE1OTIzM119
 -->
