@@ -16,12 +16,11 @@ Atualmente tenho conhecimento nas linguagens abaixo:
 <div style="background-color: white;">
 	<img alt="Python" width="32px" src="https://www.vectorlogo.zone/logos/python/python-vertical.svg"/>
 	<img alt="R" width="80px" src="https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg"/>
-	<img 
 </div>
 
 
 E também em:
-
+<img alt="Excel" width="32px" src="https://logodownload.org/wp-content/uploads/2020/04/excel-logo-0-1536x1536.png" />
 E busco aperfeiçoar meus conhecimentos em:
 
 
@@ -37,5 +36,5 @@ E busco aperfeiçoar meus conhecimentos em:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NjExNzc3NCwtMTI2NDE1OTIzM119
+eyJoaXN0b3J5IjpbMjgzMzE0MzA3LC0xMjY0MTU5MjMzXX0=
 -->
