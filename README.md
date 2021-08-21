@@ -25,6 +25,10 @@ E também em:
 
 E busco aperfeiçoar meus conhecimentos em:
 
+<div style="background-color: white;">
+	<img alt="MySQL" width="32px" src="https://www.vectorlogo.zone/logos/python/python-vertical.svg"/>
+	<img alt="Postgre" width="80px" src="https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg"/>
+</div>
 
 ## CURIOSIDADES
 <ul>
@@ -38,5 +42,5 @@ E busco aperfeiçoar meus conhecimentos em:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNDk0MzQzMCwtMTI2NDE1OTIzM119
+eyJoaXN0b3J5IjpbMTAyMTA0MDUxNCwtMTI2NDE1OTIzM119
 -->
