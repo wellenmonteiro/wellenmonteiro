@@ -20,7 +20,9 @@ Atualmente tenho conhecimento nas linguagens abaixo:
 
 
 E também em:
-<img alt="Excel" width="32px" src="https://logodownload.org/wp-content/uploads/2020/04/excel-logo-0-1536x1536.png" />
+
+<img alt="Excel" width="40px" src="https://logodownload.org/wp-content/uploads/2020/04/excel-logo-0-1536x1536.png" />
+
 E busco aperfeiçoar meus conhecimentos em:
 
 
@@ -36,5 +38,5 @@ E busco aperfeiçoar meus conhecimentos em:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgzMzE0MzA3LC0xMjY0MTU5MjMzXX0=
+eyJoaXN0b3J5IjpbMjAwNDk0MzQzMCwtMTI2NDE1OTIzM119
 -->
