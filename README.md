@@ -5,7 +5,7 @@ Olá, me chamo Wellen Monteiro e atualmente estou cursando o 5º semestre de Est
 ## CONTATOS
 
 Email 📧: <a>wellenamador65@gmail.com</a>
-Linkedin <img width="25px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"/>: 
+Linkedin <img width="25px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"/>: <a href="https://www.linkedin.com/in/wellen-de-paula-monteiro-a07bb5169/" target="_blank">wellen-de-paula-monteiroa</a>
 
 
 ## GOSTOS
@@ -46,6 +46,6 @@ E busco aperfeiçoar meus conhecimentos em:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzY4MjE0MjQsLTEyNjQxNTkyMzNdfQ
+eyJoaXN0b3J5IjpbLTExMjE0ODc1NjQsLTEyNjQxNTkyMzNdfQ
 ==
 -->
