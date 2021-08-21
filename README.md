@@ -13,6 +13,7 @@ Sou apaixonada por datascience 🎲🧪 e almejo futuramente trabalhar nesta ár
 ## HABILIDADES
 
 Atualmente tenho conhecimento nas linguagens abaixo:
+<img alt="Python" width="32px" src="https://www.vectorlogo.zone/logos/python/python-vertical.svg"/>
 
 
 E também em:
@@ -32,5 +33,5 @@ E busco aperfeiçoar meus conhecimentos em:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjQxNTkyMzNdfQ==
+eyJoaXN0b3J5IjpbMTY2NDE0NDIwNCwtMTI2NDE1OTIzM119
 -->
