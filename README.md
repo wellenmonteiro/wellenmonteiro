@@ -1,6 +1,8 @@
 # APRESENTAÇÃO
 
-Olá, me chamo Wellen Monteiro e atualmente estou cursando o 5º semestre de Estatística na UFPA 🎓
+Olá, me chamo Wellen Monteiro tenho formação de Bacharel em Estatística pela UFPA 🎓
+Atualmente faço mestrado em Matemática e Estatística pelo programa de Pós Graduação PPGME na UFPA, área de concentração sendo Estatística.
+Trabalho no Tribunal de Justiça do Estado do Pará, onde lido com Power BI.
 
 ## CONTATOS
 
@@ -10,7 +12,7 @@ Linkedin <img width="25px" src="https://content.linkedin.com/content/dam/me/busi
 
 ## GOSTOS
 
-Sou apaixonada por datascience 🎲🧪 e almejo futuramente trabalhar nesta área! 
+ETL, Power BI, Análise de Sobrevivência.
 
 ## HABILIDADES
 
@@ -36,12 +38,9 @@ E busco aperfeiçoar meus conhecimentos em:
 
 ## CURIOSIDADES
 <ul>
-<li>Amo bolo 😍</li>
-<li>Amo desenhar</li>
-<li>Amo costurar e criar modelos</li>
-<li>Amo cantar e criar canções</li>
-<li>Amo escrever contos e histórias</li>
-<li>Amo que me chamem para uma vaga de estágio (Aliás,  estou disponível para propostas)</li>
+<li>Amo bolo/torta 😍</li>
+<li>Sou fitness</li>
+<li>Ando de Patins</li>
 </ul>
 
 
